@@ -1,3 +1,5 @@
+# sandro henrique e arthur felipe
+
 Explicação do algoritmo:
 
 Declarei minhas variáveis: caixa, fabricante, potênciadomotor, cor e carro, pois iremos trabalhar elas no algoritmo.
