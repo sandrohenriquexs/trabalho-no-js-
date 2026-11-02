@@ -12,3 +12,4 @@ Organizamos 3 lógicas para que a compra do automóvel seja realizada:
 3. Analisa se todas as condições foram atendidas, incluindo o valor do caixa disponível para permitir a compra.
 
 O while verifica se as condições são verdadeiras ou falsas para encerrar ou dar continuidade ao algoritmo.
+
